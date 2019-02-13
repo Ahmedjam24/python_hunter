@@ -8,4 +8,4 @@ for i in usr:
         print i
         flag=1
 if(flag==0):
-    print"-1"
+    print"unique"
