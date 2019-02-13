@@ -15,3 +15,4 @@ for i in list:
     if(temp!=0):
         print" "
     print i
+    temp=1
